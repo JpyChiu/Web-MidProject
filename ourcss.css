@@ -1,0 +1,219 @@
+.menu{
+	width: 100%;
+}
+
+.menu ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3C3C3C;
+	font-family:Microsoft JhengHei;
+}
+
+.menu ul li{
+	float: left;
+}
+
+.menu li a{
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    background-color: black;
+}
+
+.main{
+	width: 98%;
+    padding: 15px;
+	color: white;
+}
+
+.form{
+	position:absolute;
+	left:8;
+	width:40%;
+	color:white;
+	background-color:rgba(142,142,142,0.3);
+}
+
+.intro{
+	width:80%;
+	background-color:rgba(39,39,39,0.7);
+}
+
+.introleft{
+	width:35%;
+	position:relative;
+	left:0;
+}
+
+.introright{
+	width:48%;
+	position:relative;
+	left:40%;
+	top:-165;
+}
+
+.introrightdown{
+	width:48%;
+	position:relative;
+	left:40%;
+	top:-140;
+}
+
+.money{
+	position:absolute;
+	left:3;
+	background-color:rgba(142,142,142,0.4);
+	width:800;
+	height:400;
+	margin:5;
+	padding:20;
+	padding-top:5;
+}
+
+.money table {
+    border-collapse: collapse;
+    width: 100%;
+	background-color:rgba(79,79,79,0.6);
+}
+
+.money th, td {
+    padding: 8px;
+    text-align: left;
+	color:white;
+    border-bottom: 1px solid #ddd;
+}
+
+.money tr:hover{background-color:#8c8c8c}
+
+body{
+	background-size:cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position:left top;
+	background-image: url(http://images.undiff.net/articles/2015/2015-12-07_6/_Featured.jpg);
+	background-color: #ccc;
+}
+
+.joy{
+	position:absolute;
+	left:3;
+	width:450;
+	height:470;
+	margin:5;
+	padding:20;
+	background-color:rgba(40%,0%,0%,0.4);
+}
+
+.jason{
+	position:absolute;
+	left:518;
+	width:450;
+	height:470;
+	margin:5;
+	padding:20;
+	background-color:rgba(0%,40%,0%,0.4);
+}
+
+.wayne{
+	position:absolute;
+	left:1033;
+	width:450;
+	height:470;
+	margin:5;
+	padding:20;
+	background-color:rgba(0%,0%,40%,0.4);
+}
+
+.picture{
+	position:relative;
+	left:0;
+}
+.text{
+	position:absolute;
+	left:280;
+	top:0;
+	width:150;
+	height:300;
+	margin:5;
+	padding:20;
+}
+
+.yzu{
+	position:absolute;
+	left:7;
+	width:96.3%;
+	height:300;
+	margin:2;
+	padding:20;
+	padding-top:0;
+	background-color:rgba(79,79,79,0.4);
+}
+
+.chongli{
+	position:relative;
+	left:-15;
+	top:350;
+	width:99.3%;
+	height:300;
+	margin:2;
+	padding:20;
+	padding-top:0;
+	background-color:rgba(79,79,79,0.4);
+}
+
+.island{
+	position:relative;
+	left:-15;
+	top:360;
+	width:99.3%;
+	height:300;
+	margin:2;
+	padding:20;
+	padding-top:0;
+	background-color:rgba(79,79,79,0.4);
+}
+
+.tokyo{
+	position:relative;
+	left:-15;
+	top:370;
+	width:99.3%;
+	height:300;
+	margin:2;
+	padding:20;
+	padding-top:0;
+	background-color:rgba(79,79,79,0.4);
+}
+
+.europe{
+	position:relative;
+	left:-15;
+	top:380;
+	width:99.3%;
+	height:300;
+	margin:2;
+	padding:20;
+	padding-top:0;
+	background-color:rgba(79,79,79,0.4);
+}
+
+.picture2{
+	position:absolute;
+	top:15;
+	left:400;
+}
+
+.text2{
+	position:relative;
+	left:0;
+	width:300;
+	margin:5;
+	padding:5;
+}
